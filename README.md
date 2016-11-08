@@ -1,4 +1,4 @@
-<h1>AdvancedWidget1</h1>
+<h1>Inten2</h1>
 
 <h2>Identitas</h2>
 
